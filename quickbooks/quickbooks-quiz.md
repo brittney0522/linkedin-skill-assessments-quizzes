@@ -16,14 +16,14 @@
 
 #### Q3. What is the easiest way to set up multiple companies, with the same owner, in QuickBooks?
 
-- [ ] Use the Advanced/Detailed Setup to go through the EasyStep Interview for the oldest company, then click File > Add Additional Business at the end of the interview.
+- [ x] Use the Advanced/Detailed Setup to go through the EasyStep Interview for the oldest company, then click File > Add Additional Business at the end of the interview.
 - [ ] Set up classes for each company within the parent company file. This will allow you to print financial statements for each company.
 - [ ] Purchase a separate QuickBooks license for each company. You will create different icons for each company on your desktop.
 - [ ] Use the Advanced/Detailed Setup to go through the EasyStep Interview for each company, creating a separate company file for each.
 
 #### Q4. For whom can you create a password during the Advanced/Detailed Setup?
 
-- [ ] the administrator
+- [ x] the administrator
 - [ ] the external accountant
 - [ ] no users
 - [ ] all users
@@ -33,18 +33,18 @@
 - [ ] Provide invoices to customers when you are in the field and do not have access to the internet or software.
 - [ ] Create recurring invoices for the same customer that will repeat each month.
 - [ ] Prefill invoices to simplify the billing process for a bookkeeper or external billing service.
-- [ ] Set up multiple customers in a billing group, with the same invoice.
+- [ x] Set up multiple customers in a billing group, with the same invoice.
 
 #### Q6. When initially setting up a company through the Advanced/Detailed Setup, which information does QuickBooks require you to enter?
 
 - [ ] company name and Chart of Accounts
 - [ ] company name, tax ID, and administrator password
-- [ ] company name
+- [ x] company name
 - [ ] company name and address
 
 #### Q7. What does setting up fixed assets in QuickBooks enable you to do?
 
-- [ ] Complete your depreciation schedule for tax purposes.
+- [ x] Complete your depreciation schedule for tax purposes.
 - [ ] Pay for assets directly from the setup window.
 - [ ] Provide the buyer of the asset with proof of purchase.
 - [ ] Track larger purchases that you may later sell.
@@ -54,12 +54,12 @@
 - [ ] to pay an employee's garnishment, such as child support
 - [ ] to correct the amount due if an error was detected in a payroll check
 - [ ] to add the cost of employee mileage to the payment
-- [ ] to enter late fees, penalties, or interest
+- [x] to enter late fees, penalties, or interest
 
 #### Q9. Why would you use the Items tab when entering a bill?
 
 - [ ] to track freight charges separately from the expense account
-- [ ] to track expenses
+- [x ] to track expenses
 - [ ] to assign a cost to a job or to purchase an inventory item
 - [ ] to track credits
 
@@ -68,7 +68,7 @@
 - [ ] It allows you to get customer level detail later.
 - [ ] It gets the cash into your checking account as quickly as possible.
 - [ ] It automates the deposit system, so you don't have to physically go to the bank to complete the deposit.
-- [ ] It allows you to record daily "lump sum" sales quickly and efficiently.
+- [ x] It allows you to record daily "lump sum" sales quickly and efficiently.
 
 #### Q11. You are running your Profit and Loss report and notice it is on a cash basis rather than an accrual basis. How can you correct this to show the correct basis?
 
@@ -80,7 +80,7 @@
 #### Q12. Is it possible to merge two list entries?
 
 - [ ] Yes. From the bottom of the list, click Activities > Combine List Name, and then select the list entries you would like to merge.
-- [ ] Yes. You can rename the unwanted list entry to match the name of the list entry you would like to merge into.
+- [ x] Yes. You can rename the unwanted list entry to match the name of the list entry you would like to merge into.
 - [ ] No. You can delete a list entry, but you cannot merge them.
 - [ ] No. You cannot combine or merge two list entries.
 
@@ -88,7 +88,7 @@
 
 - [ ] You can never delete a vendor, but you can make them inactive.
 - [ ] Yes, Go to your Vendor Center, select the vendor you would like to delete, and click Edit > Delete.
-- [ ] You can delete the vendor only if they are not used in transactions or are part of another list entry, but you can make them inactive.
+- [ x] You can delete the vendor only if they are not used in transactions or are part of another list entry, but you can make them inactive.
 - [ ] Yes. When you delete the vendor, a box appears asking if you are sure you want to delete. Click Yes and enter the administrator password to continue.
 
 #### Q14. Why is setting a closing date in QuickBooks a good practice?
