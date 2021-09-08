@@ -93,7 +93,7 @@
 
 #### Q14. Why is setting a closing date in QuickBooks a good practice?
 
-- [ ] Sensitive data is safeguarded after the close date, since access is password protected.
+- [x] Sensitive data is safeguarded after the close date, since access is password protected.
 - [ ] After reports have been printed, changes cannot be made to transactions before the closing date without a password.
 - [ ] After the close date, only certain users are allowed to access data for reporting purposes.
 - [ ] It does not allow users to look at data after the period has closed.
@@ -234,13 +234,13 @@
 #### Q34. Why is it important during payroll setup to enter your deposit frequencies?
 
 - [ ] You do not need to enter your deposit frequencies, as QuickBooks enters that information for you automatically.
-- [ ] The Pay Scheduled Liabilities list in the Payroll Center will be accurate, so all taxes are paid in a timely manner to avoid late payments or penalties.
+- [x] The Pay Scheduled Liabilities list in the Payroll Center will be accurate, so all taxes are paid in a timely manner to avoid late payments or penalties.
 - [ ] Most state agencies require this. If deposit frequencies are not set up correctly, a warning will go to the taxing authority.
 - [ ] QuickBooks needs this information to automatically make the payments for you on or before the due date.
 
 #### Q35. Time Tracking in QuickBooks _cannot_ be used to complete which task?
 
-- [ ] to track the cost of an employee's gross pay by job
+- [x] to track the cost of an employee's gross pay by job
 - [ ] to flag when you need more staff for a project
 - [ ] to provide the hours an employee worked on a paycheck
 - [ ] to invoice a customer for time spent on the job
@@ -249,13 +249,13 @@
 
 - [ ] QBX
 - [ ] QBW
-- [ ] QBB
+- [x] QBB
 - [ ] QBM
 
 #### Q37. Your accountant calls and needs to know which version of QuickBooks you are using. What is the easiest way to find out?
 
 - [ ] Press the F2 key (Windows) or select Help > Product Information (Mac) to display the version information.
-- [ ] Reopen your QuickBooks file and wait for the version to show up on the opening screen.
+- [x] Reopen your QuickBooks file and wait for the version to show up on the opening screen.
 - [ ] On the Home Page, select Help and type Version in the search box.
 - [ ] Go to `www.quickbooks.com` and view your account details.
 
@@ -263,19 +263,19 @@
 
 - [ ] Click the account to select it, and then click Lists > Chart of Accounts > Make subaccount.
 - [ ] Right-click the account and choose Make subaccount.
-- [ ] In the Edit Account dialog box, select the Subaccount of check box, and then select the parent account in the drop-down list.
+- [x] In the Edit Account dialog box, select the Subaccount of check box, and then select the parent account in the drop-down list.
 - [ ] You cannot make an account a subaccount once it is part of the Chart of Accounts.
 
 #### Q39. A customer pays you in full for your product when they order it. Which form should you use to record this transaction in QuickBooks?
 
 - [ ] Receive Payments
 - [ ] Invoice
-- [ ] Sales Receipt
+- [x] Sales Receipt
 - [ ] Make Deposit
 
 #### Q40. When entering a journal entry, the debits do not equal the credits. What will QuickBooks do in this case?
 
-- [ ] Record the transaction as entered.
+- [x] Record the transaction as entered.
 - [ ] Ask to which account you would like to post the balance.
 - [ ] Not allow you to record the transaction.
 - [ ] Post the difference to an adjustment account.
@@ -284,12 +284,12 @@
 
 - [ ] Enter the bill.
 - [ ] Create a purchase order.
-- [ ] Have funds in your checking account to cover the payment amount.
+- [x] Have funds in your checking account to cover the payment amount.
 - [ ] Provide an email address for the vendor so you can send payment confirmation.
 
 #### Q42. What is QuickReport in QuickBooks?
 
-- [ ] a QuickBooks report in a graphical format
+- [x] a QuickBooks report in a graphical format
 - [ ] a snapshot of the Profit and Loss report
 - [ ] any QuickBooks report
 - [ ] a predesigned report that shows more detail about the data you are currently viewing on screen
@@ -299,20 +299,20 @@
 - [ ] Debit Cash and credit Accounts Payable.
 - [ ] Debit Cash and credit Prepaid Expenses.
 - [ ] Credit Cash and debit Accounts Payable.
-- [ ] Credit Cash and debit Prepaid Expenses.
+- [x] Credit Cash and debit Prepaid Expenses.
 
 #### Q44. What happens when you void an invoice?
 
 - [ ] The invoice number changes to the word Void, and the invoice remains available for reference with a zero balance due.
 - [ ] The invoice is removed, and the next invoice will receive the number of the voided invoice.
 - [ ] The invoice number can't be used again, and the invoice details cannot be viewed.
-- [ ] The invoice number can't be used again, the word Void is added to the memo, and the invoice remains available for reference with a zero balance due.
+- [x] The invoice number can't be used again, the word Void is added to the memo, and the invoice remains available for reference with a zero balance due.
 
 #### Q45. Your company manufactures widgets that contain multiple inventory items. What is the best way to manage your inventory?
 
 - [ ] Create a group that contains all of the components of the widget.
 - [ ] Create an Inventory Part called Widget, and do a journal entry to adjust inventory manually after each production run.
-- [ ] Each time you manufacture a widget, adjust the inventory for each item through the Inventory Adjustments window.
+- [x] Each time you manufacture a widget, adjust the inventory for each item through the Inventory Adjustments window.
 - [ ] Utilize the Inventory Assembly item type.
 
 #### Q46. What does QuickBooks do with net profit at the beginning of a new year?
@@ -320,7 +320,7 @@
 - [ ] Subtracts net profit from an Owner's or Shareholder's Equity account.
 - [ ] Adds net profit to an Owner's or Shareholder's Equity account.
 - [ ] Adds net profit to Stockholder's Equity.
-- [ ] Adds net profit to Retained Earnings.
+- [x] Adds net profit to Retained Earnings.
 
 #### Q47. Where does QuickBooks get the billable time and costs information when you invoice for time and costs?
 
